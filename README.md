@@ -3,7 +3,7 @@ This project is based off of a project forked from https://github.com/heanuea/Mn
 
 A model is trained on a data set of numbers provided by MNIST and will be implemented in a website to allow for user interaction. A black box is used to "draw" the number the user wants and by utilized the trained model, a printed response of the guess of the number will be shown below.
 
-##Project Overview
+## Project Overview
 
-- **Day 1** ([notebook]())
-- **Day 2** ([notebook]())
+- **Day 1** ([notebook](https://github.com/Itzaek/DigitRecognition/blob/master/Notebook/day1.ipynb))
+- **Day 2** ([notebook](https://github.com/Itzaek/DigitRecognition/blob/master/Notebook/day2.ipynb))
