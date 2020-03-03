@@ -7,3 +7,4 @@ A model is trained on a data set of numbers provided by MNIST and will be implem
 
 - **Day 1** ([notebook](https://github.com/Itzaek/DigitRecognition/blob/master/Notebook/day1.ipynb))
 - **Day 2** ([notebook](https://github.com/Itzaek/DigitRecognition/blob/master/Notebook/day2.ipynb))
+- **Day 3** ([notebook](https://github.com/Itzaek/DigitRecognition/blob/master/Notebook/Day3.ipynb))
